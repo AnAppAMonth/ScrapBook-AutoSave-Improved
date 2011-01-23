@@ -1,0 +1,12 @@
+overlay chrome://navigator/content/navigator.xul chrome://sbautosave/content/browserOverlay.xul
+overlay	chrome://browser/content/browser.xul	chrome://sbautosave/content/browserOverlay.xul
+overlay chrome://scrapbook/content/scrapbook.xul	chrome://sbautosave/content/scrapbookOverlay.xul
+content	sbautosave	chrome/sbautosave/content/sbautosave/
+
+locale	sbautosave	en-US	chrome/sbautosave/locale/en-US/sbautosave/
+locale	sbautosave	ja-JP	chrome/sbautosave/locale/ja-JP/sbautosave/
+locale	sbautosave	ru-RU	chrome/sbautosave/locale/ru-RU/sbautosave/
+locale	sbautosave	fr-FR	chrome/sbautosave/locale/fr-FR/sbautosave/
+locale	sbautosave	hu-HU	chrome/sbautosave/locale/hu-HU/sbautosave/
+locale	sbautosave	zh-TW	chrome/sbautosave/locale/zh-TW/sbautosave/
+
